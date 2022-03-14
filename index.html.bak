@@ -7,6 +7,17 @@
 		</title>
 	</head>
 	<body>
-		<p>Przemysław Chachaj</p>		
+		<p>
+			Przemysław Chachaj
+		</p>	    		
+		<p>
+			<a href="http://przemyslawch.github.io/formularze.github.io" target="_blank">2_formularze</a>
+		</p>
+		<p>
+			<a href="http://przemyslawch.github.io/galeria.github.io" target="_blank">2_galeria</a>
+		</p>
+		<p>
+			<a href="http://przemyslawch.github.io/tabelki.github.io" target="_blank">2_tabelki</a>
+		</p>		
 	</body>
 </html>
