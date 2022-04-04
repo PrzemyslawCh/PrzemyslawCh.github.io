@@ -7,10 +7,11 @@
 		</title>
 	</head>
 	<body>
+		<h4>Projekt 1</h4>   
 		<p>
 			Przemysław Chachaj
 		</p>	
-		<h4>Projekt 1</h4>    		
+		<h4>Projekt 2</h4>    		
 		<p>
 			<a href="http://przemyslawch.github.io/formularze.github.io" target="_blank">formularze</a>
 		</p>
@@ -20,7 +21,7 @@
 		<p>
 			<a href="http://przemyslawch.github.io/tabelki.github.io" target="_blank">tabelki</a>
 		</p>
-		<h4>Projekt 2</h4>   
+		<h4>Projekt 3</h4>   
 		<p>
 			<a href="http://przemyslawch.github.io/formularze2" target="_blank">formularze2</a>
 		</p>
@@ -30,9 +31,13 @@
 		<p>
 			<a href="http://przemyslawch.github.io/tabelki2" target="_blank">tabelki2</a>
 		</p>	
-		<h4>Projekt 3</h4>   	
+		<h4>Projekt 4</h4>   	
 		<p>
 			<a href="https://przemyslawch.github.io/faktura/" target="_blank">faktura</a>
-		</p>		
+		</p>	
+		<h4>Projekt 5</h4>   	
+		<p>
+			<a href="https://przemyslawch.github.io/kalkulator/" target="_blank">faktura</a>
+		</p>			
 	</body>
 </html>
